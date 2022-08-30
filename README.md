@@ -32,8 +32,8 @@ Library of butiran.js can be downloaded from
     `demo` https://raw.githack.com/dudung/butiran.js/master/app/gcm2d/gcm2d.html
 07. **spfwfs.js** | Spherical particle floating on waving fluid surface | 20181120<br>
     `refs` https://doi.org/10.21009/SPEKTRA.033.01<br>
-    `code` https://github.com/dudung/butiran.js/blob/master/app/spfwfs/spfwfs.js<br>
-    `demo` https://raw.githack.com/dudung/butiran.js/master/app/spfwfs/spfwfs.html
+    `code` https://github.com/azfairuza/butiran.js/blob/master/app/spfwfs/spfwfs.js<br>
+    `demo` https://raw.githack.com/azfairuza/butiran.js/master/app/spfwfs/spfwfs.html
 08. **rk2dsp.js** | Rotary kil in 2-d for spherical particles | 20181121<br>
     `refs` https://doi.org/10.1088/1742-6596/1090/1/012009<br>
     `code` https://github.com/dudung/butiran.js/blob/master/app/rk2dsp/rk2dsp.js<br>
