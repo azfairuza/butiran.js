@@ -392,7 +392,7 @@ function waveFunction() {
 	var omega = 2 * Math.PI / T;
 	var k = 2 * Math.PI / lambda;
 	
-	var y = A * Math.sin(k * x - omega * t);
+	var y = A * Math.cos(k * x - omega * t);
 	return y;
 }
 
